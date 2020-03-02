@@ -3,9 +3,11 @@ Software Engineering Project: Electronic Toll Collection System, "Dash" - Mazie 
 
 Overview
 --------
-- The purpose of this software is to help modernize and expedite travel for the everyday commuter through the use of an automated toll paying system.
+- This project only deals with the software aspect of the Dash ecosystem.﻿ We expect the physical device to be designed by another company and we are only developing the software.
 
-- Each customer is given a Dash Device per vehicle and will be allowed to drive on toll bridges/lanes along the California Freeway System.
+- The purpose of our software is to help modernize and expedite travel for the everyday commuter through the use of an automated toll paying system.
+
+- Each customer is given a Dash device per vehicle and will be allowed to drive on toll bridges/lanes along the California Freeway System.
 
 - Fares are determined by vehicle axles. Otherwise, discounts are applied if drivers are carpooling or have energy efficient vehicles.
 
